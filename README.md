@@ -17,4 +17,4 @@ The Avatar Quote app is an app built from Xcode. Quaratine got me bored since I 
 
 #### License
 Created by Lance Daniel on 7/12/20.
-Copyright © 2020 Lance Daniel. All rights reserved.
+Copyright © 2020 Lance Daniel. All rights reserved. Created using Xcode Version 11.4.1 
