@@ -1,5 +1,5 @@
 # AvatarQuoteApp
-The Avatar Quote app is an app built from Xcode. Quaratine got me bored since I my internship was rescinded, so I decided to learn about app developement. This is my first time learning how to develop IOS apps using Swift and Xcode. Time spent is a total of 40 hours.
+The Avatar Quote app is an app built from Xcode. Quaratine got me bored since my internship was rescinded, so I decided to learn about app developement. This is my first time learning how to develop IOS apps using Swift and Xcode. Time spent is a total of 40 hours.
 
 ## functionality:
 
