@@ -4,8 +4,8 @@ Daily Dose of Iroh is an app built from Xcode. Quaratine got me bored since my i
 ## functionality:
 
  - app name is "Daily Dose of Iroh"
- - User will be greeted with home screen animation (link is given in the app)
- - User can view quotes from the main characters from the popular tv show
+ - User will be greeted with home screen animation (link is given in the application)
+ - User can view quotes from the main characters from the popular tv show, Avatar The Last Airbender
  - Minimalist UI
  - planning on making updates to the app. I want to improve on the app to make it significantly better.
  - any changes or updates will be addressed here. 
