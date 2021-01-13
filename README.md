@@ -1,5 +1,5 @@
 # Daily Dose of Iroh
-Daily Dose of Iroh is an app built from Xcode. Quaratine got me bored since my internship was rescinded, so I decided to learn about app developement. This is my first time learning how to develop IOS apps using Swift and Xcode. Time spent is a total of 40 hours.
+Daily Dose of Iroh is an app built from Xcode. Quaratine got me bored since my internship was rescinded, so I decided to learn about app developement. This is my first time learning how to develop IOS apps using Swift and Xcode. Time spent is a total of 40 hours throughout the summer 2020 (UPDATE: internship rescinded due to COVID19)
 
 ## functionality:
 
