@@ -13,7 +13,7 @@ Daily Dose of Iroh is an app built from Xcode. Quaratine got me bored since my i
 ## Notes:
 - Daily Dose of Iroh is currently on version 1.00
 - only available for IOS
-- currently taken off app store b/c of copyright reasons 
+- currently taken off app store because of copyright reasons 
 
 
 #### License
